@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Murilo Locatti! 👋</h1>
 
 <p align="center">
-  Entusiasta de tecnologia, apaixonado por soluções simples, seguras e acessíveis.  
+  Entusiasta de tecnologia e buscando uma transição de carreira.  
   Desenvolvendo projetos com foco em impacto real e aprendizado contínuo. 🚀
 </p>
 
