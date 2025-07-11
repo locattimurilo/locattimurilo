@@ -54,3 +54,4 @@ Sem dependências externas. Foco em privacidade, agilidade e código aberto.
 ---
 
 ## 📫 Como me encontrar
+https://www.linkedin.com/in/murilo-locatti-cavalho-36b03a140/
