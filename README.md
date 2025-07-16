@@ -1,4 +1,4 @@
-**`Estudante de Big Data | Desenvolvedor em formação **
+Olá, tudo bem? Sou Murilo Locatti, **Estudante de Big Data | Desenvolvedor em formação**
 
 <br>
 
@@ -30,7 +30,7 @@
 <!-- GIF lateral -->
 <img align="right" alt="typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
-Sou **Murilo Locatti**, estudante de **Big Data para Negócios** na FATEC São Carlos, com forte interesse em **inteligência artificial**, **blockchain**, **cibersegurança**, e **automação de processos públicos**. 
+Sou **Murilo Locatti**, estudante de **Big Data para Indústria** na FATEC São Carlos, com forte interesse em **inteligência artificial**, **blockchain**, **cybersegurança**, e **automação de processos**. 
 
 Atualmente desenvolvo projetos voltados à:
 
