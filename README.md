@@ -35,8 +35,7 @@ Atualmente desenvolvo projetos voltados para:
 - 🧠 Aplicações de **IA em govtech**, educação e políticas públicas  
 - ⚙️ Automatização de rotinas administrativas com **Python**, **APIs** e **webscraping**
 
-Sou defensor da cultura **open source**, da ética no uso de tecnologias emergentes e do acesso transparente à informação.  
-Acredito que a tecnologia deve servir ao bem comum e democratizar o conhecimento.
+
 
 ---
 
