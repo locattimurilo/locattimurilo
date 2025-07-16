@@ -1,24 +1,62 @@
+**`Estudante de Big Data | Desenvolvedor em formação | Defensor de Open Source`**
+
+<br>
+
+<!-- Contact Badges -->
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/locattimurilo" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=006192" />
+  </a>
+
+  <a href="mailto:locattimurilo@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Enviar e-mail" 
+         src="https://custom-icon-badges.demolab.com/badge/-E--mail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DB4437" />
+  </a>
+
+  <a href="https://github.com/locattimurilo?tab=repositories" style="text-decoration: none;">
+    <img alt="Repositórios" title="Ver repositórios no GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=333333" />
+  </a>
+
+  <a href="https://github.com/locattimurilo?tab=followers" style="text-decoration: none;">
+    <img alt="Seguidores" title="Meus seguidores no GitHub" 
+         src="https://img.shields.io/github/followers/locattimurilo?style=for-the-badge&color=24292F&labelColor=282A36&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+<!-- GIF lateral -->
+<img align="right" alt="typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
+
+Sou **Murilo Locatti**, estudante de **Big Data para Negócios** na FATEC São Carlos, com forte interesse em **inteligência artificial**, **blockchain**, **cibersegurança**, e **automação de processos públicos**. 
+
+Atualmente desenvolvo projetos voltados à:
+
+- 📊 **Transparência e fiscalização inteligente** com uso de dados públicos abertos  
+- 🔗 Criação de **redes blockchain** e **criptomoedas** usando Hyperledger e Ethereum  
+- 🤖 Desenvolvimento de **chatbots com IA generativa** para atendimento público (WhatsApp)  
+- 🔒 Estudos em **pentest**, bug bounty e segurança ofensiva  
+- 🧠 Aplicações de **IA em govtech**, educação, e políticas públicas  
+- ⚙️ Automatização de rotinas administrativas com **Python**, **APIs**, e **webscraping**
+
+Sou defensor da cultura **Open Source**, da ética no uso de tecnologias emergentes e do acesso transparente à informação. Acredito que a tecnologia deve servir ao bem comum.
+
 ---
 
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> &nbsp;Tecnologias e Ferramentas</h3>
+
 <div align="center">
-
-## 👤 Quem sou eu
-
-Olá! Me chamo **Murilo Locatti** e sou um entusiasta da tecnologia, apaixonado por resolver problemas usando programação, inteligência artifici e .  
-Atualmente estudo **programação** e estou em constante evolução, desenvolvendo projetos que envolvem:
-
-🚀 Integração de dados  
-📊 Análise automatizada com Python  
-🧠 Inteligência Artificial aplicada ao setor público  
-🔒 Segurança da informação e pentest  
-🔗 Blockchain
-📚 Dados abertos e software livre
-
-Este projeto faz parte da minha trajetória de aprendizado e experimentação prática com bancos de dados relacionais e automação de processos com Python.
-
-### 🔗 Conecte-se comigo:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/locattimurilo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/locattimurilo)
-
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/BurpSuite-E34320?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger%20Besu-1E8CBE?style=for-the-badge&logo=hyperledger&logoColor=white" />
 </div>
