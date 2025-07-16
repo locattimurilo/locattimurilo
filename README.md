@@ -1,11 +1,11 @@
-**`Estudante de Big Data | Desenvolvedor em formação | Defensor de Open Source`**
+**`Estudante de Big Data | Desenvolvedor em formação **
 
 <br>
 
 <!-- Contact Badges -->
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/locattimurilo" style="text-decoration: none;">
+  <a href="[https://www.linkedin.com/in/locattimurilo](https://www.linkedin.com/in/murilo-locatti-cavalho-36b03a140/)" style="text-decoration: none;">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=006192" />
   </a>
@@ -36,12 +36,11 @@ Atualmente desenvolvo projetos voltados à:
 
 - 📊 **Transparência e fiscalização inteligente** com uso de dados públicos abertos  
 - 🔗 Criação de **redes blockchain** e **criptomoedas** usando Hyperledger e Ethereum  
-- 🤖 Desenvolvimento de **chatbots com IA generativa** para atendimento público (WhatsApp)  
 - 🔒 Estudos em **pentest**, bug bounty e segurança ofensiva  
 - 🧠 Aplicações de **IA em govtech**, educação, e políticas públicas  
 - ⚙️ Automatização de rotinas administrativas com **Python**, **APIs**, e **webscraping**
 
-Sou defensor da cultura **Open Source**, da ética no uso de tecnologias emergentes e do acesso transparente à informação. Acredito que a tecnologia deve servir ao bem comum.
+Sou defensor da cultura **Software livre**, da ética no uso de tecnologias emergentes e do acesso transparente à informação. Acredito que a tecnologia deve servir ao bem comum e democratizar a informação.
 
 ---
 
