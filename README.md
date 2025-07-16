@@ -4,7 +4,7 @@
 
 <p align="center">
   Entusiasta de tecnologia e buscando uma transição de carreira.  
-  Desenvolvendo projetos com foco em impacto real e aprendizado contínuo na área de Big Data, segurança e software livre. 🚀
+  Desenvolvendo projetos com foco em impacto real e aprendizado contínuo na área de blockchain, segurança e software livre. 🚀
 </p>
 
 ---
