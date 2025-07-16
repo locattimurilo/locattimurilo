@@ -5,7 +5,7 @@ Olá, tudo bem? Sou Murilo Locatti, **Estudante de Big Data | Desenvolvedor em f
 <!-- Contact Badges -->
 <p align="center">
 
-  <a href="[https://www.linkedin.com/in/locattimurilo](https://www.linkedin.com/in/murilo-locatti-cavalho-36b03a140/)" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/murilo-locatti-cavalho-36b03a140/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=006192" />
   </a>
@@ -20,24 +20,23 @@ Olá, tudo bem? Sou Murilo Locatti, **Estudante de Big Data | Desenvolvedor em f
          src="https://custom-icon-badges.demolab.com/badge/-Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=333333" />
   </a>
 
-  </a>
-
 </p>
 
 <!-- GIF lateral -->
 <img align="right" alt="typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
-Sou **Murilo Locatti**, estudante de **Big Data para Indústria** na FATEC São Carlos, com forte interesse em **inteligência artificial**, **blockchain**, **cybersegurança**, e **automação de processos**. 
+Sou **Murilo Locatti**, estudante de **Big Data para Indústria** na FATEC São Carlos, com forte interesse em **inteligência artificial**, **blockchain**, **cybersegurança** e **automação de processos**.
 
-Atualmente desenvolvo projetos voltados à:
+Atualmente desenvolvo projetos voltados para:
 
 - 📊 **Transparência e fiscalização inteligente** com uso de dados públicos abertos  
 - 🔗 Criação de **redes blockchain** e **criptomoedas** usando Hyperledger e Ethereum  
 - 🔒 Estudos em **pentest**, bug bounty e segurança ofensiva  
-- 🧠 Aplicações de **IA em govtech**, educação, e políticas públicas  
-- ⚙️ Automatização de rotinas administrativas com **Python**, **APIs**, e **webscraping**
+- 🧠 Aplicações de **IA em govtech**, educação e políticas públicas  
+- ⚙️ Automatização de rotinas administrativas com **Python**, **APIs** e **webscraping**
 
-Sou defensor da cultura **Software livre**, da ética no uso de tecnologias emergentes e do acesso transparente à informação. Acredito que a tecnologia deve servir ao bem comum e democratizar a informação.
+Sou defensor da cultura **open source**, da ética no uso de tecnologias emergentes e do acesso transparente à informação.  
+Acredito que a tecnologia deve servir ao bem comum e democratizar o conhecimento.
 
 ---
 
