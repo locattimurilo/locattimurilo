@@ -11,9 +11,9 @@
 
 ## 🧠 Sobre Mim
 
-Sou um desenvolvedor em constante evolução, focado na criação de aplicações que aliam **utilidade, leveza e privacidade**. Tenho interesse especial por ferramentas **offline**, **projetos de código aberto**, **blockchain**, **IA aplicada ao setor público** e **automação de tarefas**.
+Sou um desenvolvedor em constante evolução, focado na criação de aplicações que aliam **utilidade, leveza e privacidade**. Tenho interesse especial por ferramentas **de automatização**, **projetos de código aberto**, **blockchain**, **IA aplicada ao setor público** e **automação de tarefas**.
 
-Atualmente me dedico a projetos próprios e acadêmicos, como o [**QRCODEFREE**](https://github.com/seu-usuario/qrcodefree), e estudo tecnologias voltadas à **banco de dados**, **cybersegurança** entre outros
+Atualmente me dedico a projetos próprios e acadêmicos, como o [**QRCODEFREE**](https://github.com/seu-usuario/qrcodefree), e estudo tecnologias voltadas à **banco de dados**, **cybersegurança**, **blockchain** entre outros
 
 ---
 
