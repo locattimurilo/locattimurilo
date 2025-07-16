@@ -1,57 +1,38 @@
-# Quem sou eu
+<div align="center">
 
-<h1 align="center">Olá, eu sou o Murilo Locatti! 👋</h1>
+<h1>📦 Projeto Final: Integração CSV → Python → MySQL</h1>
 
-<p align="center">
-  Entusiasta de tecnologia e buscando uma transição de carreira.  
-  Desenvolvendo projetos com foco em impacto real e aprendizado contínuo na área de blockchain, segurança e software livre. 🚀
-</p>
+<p>Automatizando a importação de dados para banco MySQL usando Python</p>
 
----
-
-## 🧠 Sobre Mim
-
-Sou um desenvolvedor em constante evolução, focado na criação de aplicações que aliam **utilidade, leveza e privacidade**. Tenho interesse especial por ferramentas **de automatização**, **projetos de código aberto**, **blockchain**, **IA aplicada ao setor público** e **automação de tarefas**.
-
-Atualmente me dedico a projetos próprios e acadêmicos, como o [**QRCODEFREE**](https://github.com/seu-usuario/qrcodefree), e estudo tecnologias voltadas à **banco de dados**, **cybersegurança**, **blockchain** entre outros
+</div>
 
 ---
 
-## 🚀 Principais Projetos
+## 🎯 Objetivo
 
-### 🔹 [QRCODEFREE](https://github.com/seu-usuario/qrcodefree)
-Gerador de QR Code gratuito, leve e 100% offline.  
-Sem dependências externas. Foco em privacidade, agilidade e código aberto.
+Criar um script Python que:
 
-> ✅ Ideal para uso pessoal ou profissional  
-> ✅ Feito com Python puro e distribuições portáveis  
-> ✅ Sem instalação adicional
-
----
-
-## 🧰 Tecnologias que estou usando ou estudando
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ChatGPT-1A1A1A?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</p>
+- Estabeleça conexão com um banco MySQL
+- Solicite ao usuário a quantidade de arquivos `.csv`
+- Solicite o caminho de cada arquivo
+- Leia os dados dos arquivos em dicionários
+- Converta os dados em comandos `INSERT INTO`
+- Insira os dados no banco de dados MySQL
 
 ---
 
-## 🎯 Objetivos atuais
+## ⚙️ Etapas do Processo
 
-- 🛠 Criar ferramentas acessíveis e opensource para o dia a dia
-- 🤖 Aplicar IA para aumentar a transparência no setor público
-- 🔐 Aprimorar conhecimentos em **cybersecurity**
-- 🧱 Desenvolver soluções em **blockchain e Web3**
+<ol>
+  <li><strong>Conexão com MySQL</strong> – Ajuste da forma de conexão com o banco</li>
+  <li><strong>Entrada do Usuário</strong> – Número de arquivos e caminhos</li>
+  <li><strong>Leitura dos CSVs</strong> – Dados convertidos em dicionários Python</li>
+  <li><strong>Geração dos INSERTs</strong> – Conversão para comandos SQL</li>
+  <li><strong>Execução</strong> – Inserção dos dados na base MySQL</li>
+</ol>
 
----
 
 ## 📫 Como me encontrar
 https://www.linkedin.com/in/murilo-locatti-cavalho-36b03a140/
+
+É importante destacar que eu entreguei o projeto, mas agora quero melhorar e deixar além de mais robusto, mais clean, seguindo as boas práticas da programação.
