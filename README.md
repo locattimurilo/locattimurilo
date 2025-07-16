@@ -20,9 +20,6 @@ Olá, tudo bem? Sou Murilo Locatti, **Estudante de Big Data | Desenvolvedor em f
          src="https://custom-icon-badges.demolab.com/badge/-Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=333333" />
   </a>
 
-  <a href="https://github.com/locattimurilo?tab=followers" style="text-decoration: none;">
-    <img alt="Seguidores" title="Meus seguidores no GitHub" 
-         src="https://img.shields.io/github/followers/locattimurilo?style=for-the-badge&color=24292F&labelColor=282A36&logo=github&logoColor=white" />
   </a>
 
 </p>
