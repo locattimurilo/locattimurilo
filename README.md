@@ -1,38 +1,24 @@
+---
+
 <div align="center">
 
-<h1>📦 Projeto Final: Integração CSV → Python → MySQL</h1>
+## 👤 Quem sou eu
 
-<p>Automatizando a importação de dados para banco MySQL usando Python</p>
+Olá! Me chamo **Murilo Locatti** e sou um entusiasta da tecnologia, apaixonado por resolver problemas usando programação, inteligência artifici e .  
+Atualmente estudo **programação** e estou em constante evolução, desenvolvendo projetos que envolvem:
+
+🚀 Integração de dados  
+📊 Análise automatizada com Python  
+🧠 Inteligência Artificial aplicada ao setor público  
+🔒 Segurança da informação e pentest  
+🔗 Blockchain
+📚 Dados abertos e software livre
+
+Este projeto faz parte da minha trajetória de aprendizado e experimentação prática com bancos de dados relacionais e automação de processos com Python.
+
+### 🔗 Conecte-se comigo:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/locattimurilo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/locattimurilo)
 
 </div>
-
----
-
-## 🎯 Objetivo
-
-Criar um script Python que:
-
-- Estabeleça conexão com um banco MySQL
-- Solicite ao usuário a quantidade de arquivos `.csv`
-- Solicite o caminho de cada arquivo
-- Leia os dados dos arquivos em dicionários
-- Converta os dados em comandos `INSERT INTO`
-- Insira os dados no banco de dados MySQL
-
----
-
-## ⚙️ Etapas do Processo
-
-<ol>
-  <li><strong>Conexão com MySQL</strong> – Ajuste da forma de conexão com o banco</li>
-  <li><strong>Entrada do Usuário</strong> – Número de arquivos e caminhos</li>
-  <li><strong>Leitura dos CSVs</strong> – Dados convertidos em dicionários Python</li>
-  <li><strong>Geração dos INSERTs</strong> – Conversão para comandos SQL</li>
-  <li><strong>Execução</strong> – Inserção dos dados na base MySQL</li>
-</ol>
-
-
-## 📫 Como me encontrar
-https://www.linkedin.com/in/murilo-locatti-cavalho-36b03a140/
-
-É importante destacar que eu entreguei o projeto, mas agora quero melhorar e deixar além de mais robusto, mais clean, seguindo as boas práticas da programação.
