@@ -32,7 +32,7 @@
 
 - 🎓 Cursando **Big Data para Indústria** na FATEC São Carlos
 - 🔐 **Burp Suite Practitioner** (PortSwigger Web Security Academy)
-- 🧩 Trilha **Jr. Pentester** no TryHackMe
+- 🐃 Defensor do software livre (GNU)
 - 🐧 Linux como ambiente principal
 - 🤖 Interesse em automação, scripting e segurança da informação
 - 🏛️ Vindo do setor público — aprendi a resolver problemas reais com recursos limitados
