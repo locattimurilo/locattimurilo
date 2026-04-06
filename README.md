@@ -31,7 +31,6 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Big Data para Indústria** na FATEC São Carlos
-- 🔐 **Burp Suite Practitioner** (PortSwigger Web Security Academy)
 - 🐃 Defensor do software livre (GNU)
 - 🐧 Linux como ambiente principal
 - 🤖 Interesse em automação, scripting e segurança da informação
