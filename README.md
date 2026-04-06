@@ -58,17 +58,6 @@ Gerador de QR Code 100% offline, gratuito e open source. Sem dependências exter
 Criação e gerenciamento de banco de dados de filmes via Python + MySQL.  
 `Python` `MySQL`
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=locattimurilo&show_icons=true&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locattimurilo&layout=compact&theme=dark&hide_border=true">
-</p>
-
----
-
 <p align="center">
   ⭐ Se algum projeto te ajudou, considera deixar uma estrela!
 </p>
