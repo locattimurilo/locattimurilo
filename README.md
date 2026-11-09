@@ -32,7 +32,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##👨‍🦲 Sobre mim
 
 - 🎓 Cursando **Big Data para Indústria** na FATEC São Carlos (2027)
 - 🏛️ Servidor público em transição de carreira — aprendi a resolver problemas reais com recursos limitados
